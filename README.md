@@ -15,7 +15,12 @@ Languages Used:
 * SQL
 
 
+## Japan Real Estate Evaluation
 
+Time spent: **20** hours spent in total
+
+Folder contains my evaluation of Japan's real estate market for its top 5 most populated cities. (Tokyo, Saitama, Kanagawa, Aichi, Osaka)
+Includes the SQL code that was used for data cleanup and data analysis as well as a Tableau file that visualizes some of my findings.
 
 ## Nothing Bundt Cakes, LLC Video Walkthrough
 
