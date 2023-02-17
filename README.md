@@ -28,5 +28,5 @@ Time spent: **30** hours spent in total
 
 Please click the following link to view my video presentation on the Nothing Bundt Cakes, LLC Project
 
-<img src='[https://youtu.be/AgXBBWEoWkg](https://youtu.be/4AneP6MsD4o)' title='Project Walkthrough' width='' alt='Project Walkthrough' />
+https://youtu.be/4AneP6MsD4o
 
